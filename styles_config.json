@@ -1,0 +1,19 @@
+{
+  "pattern": "Style 25-A.0",
+  "rect_color": "Green",
+  "line_style": "Dotted",
+  "blink_speed": "Normal",
+  "fill_style": "None",
+  "animation_type": "Blink",
+  "fill_color": "Same as border",
+  "effect": "None",
+  "line_width": 10,
+  "duration": 0.1,
+  "opacity": 100,
+  "corner_radius": 18,
+  "rect_margin": 14,
+  "custom_pattern": "/{PAG}-{FILA}{COL}",
+  "keep_original_name": false,
+  "disable_popups": false,
+  "clean_pdf_links": true
+}
